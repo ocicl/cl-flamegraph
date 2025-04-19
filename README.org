@@ -1,0 +1,11 @@
+* cl-flamegraph
+
+A wrapper around SBCL's statistical profiler, to generate FlameGraph
+charts for Common Lisp programs
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/40ants/cl-flamegraph.git |
+| commit  | 0b78cae                                         |
+| systems | flamegraph                                      |
+|---------+-------------------------------------------------|
+
