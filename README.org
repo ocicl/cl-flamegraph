@@ -5,7 +5,7 @@ charts for Common Lisp programs
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/40ants/cl-flamegraph.git |
-| commit  | 630f098                                         |
+| commit  | b338dec                                         |
 | systems | flamegraph                                      |
 |---------+-------------------------------------------------|
 
